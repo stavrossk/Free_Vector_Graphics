@@ -1,4 +1,4 @@
-Free_Vector_Graphics
+Free Vector Graphics
 ====================
 
 Free vector graphics for websites or other uses.
